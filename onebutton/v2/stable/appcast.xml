@@ -5,13 +5,13 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>一个按键 · stable</title>
     <item>
       <title>一个按键 V2.0.0</title>
-      <description>V2.0：统一加密游戏包由设备内部解密和验证，支持在线升级、积分清零和设备自动识别。</description>
-      <pubDate>Sat, 17 Oct 2026 15:52:39 GMT</pubDate>
+      <description>修复旧升级中心安装后未被替换的问题；V2.0 简洁界面，支持统一加密游戏升级。</description>
+      <pubDate>Sun, 18 Oct 2026 01:17:32 GMT</pubDate>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://chouyoyo.github.io/ProductUpdates/onebutton/v2/assets/build20/OneButton-V2.0-mac-arm64-build20.zip" length="14894020" type="application/octet-stream" sparkle:version="20" sparkle:shortVersionString="2.0.0" sparkle:edSignature="/P3JfNdAq4n+xogAYfzQBEcZI1Tk036S9Jdj4BTv6h0WCLYs5OC4ppwyjTTWjNucz8ahIU6E2ejfZmLvGtvoCQ=="></enclosure>
+      <enclosure url="https://chouyoyo.github.io/ProductUpdates/onebutton/v2/assets/build21/OneButton-V2.0-mac-arm64-build21.zip" length="14893923" type="application/octet-stream" sparkle:version="21" sparkle:shortVersionString="2.0.0" sparkle:edSignature="3nhizFhsTJEnE1gjCYulgMmCEFDNmM3keP/oigfoZ0vka3C0UsiJ4hUrTHxzHkYppOBL/jkzoid/LOW4dGKlCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: etqUaSgvIylQQ5beVz7uBSHmqluLnwAUnYeZyCRA7r8mFsjBipZt/oC3jO3xZl18WroWX0XvEfQyMkreXCFcDA==
-length: 1155
+edSignature: NM/FOi/TM8QPUYhA+N283gmAr8RQuqdfprUmXCQiR5HcB/EHM14fp+vqcryoZH6KRvR10GEsBMjGp0RFNGGoAQ==
+length: 1144
 -->
