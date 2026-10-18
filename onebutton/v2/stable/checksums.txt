@@ -1,0 +1,5 @@
+34cabf540fa241d7661caed4e5f7e7612fbdae066fb950de8d689b1a01cb1f83  v2/assets/build20/OneButton-V2.0-mac-arm64-build20.pkg
+f8ffbf24c152279ed878811871ebd3e0d64bf054354ad89d630b7f7f32c3596d  v2/assets/build20/OneButton-V2.0-mac-arm64-build20.zip
+d78a846a2d4dd1c8cce939d31f04a4165eee69b8b9b1c81272f7c8f1796fb812  v2/assets/build20/pocket-parade-1.8.1.gameupdate
+164d2267c4fa1b92b2f9280c1a84f139378f4b2de4806d1d5f055ddf71765897  v2/stable/appcast.xml
+174cb62e9612fb2f470f0ba6db5ce18db0448a892d63466fdcc001b163cd88e0  v2/stable/games.json
